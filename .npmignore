@@ -1,0 +1,15 @@
+src/
+*.ts
+*.tsx
+!*.d.ts
+tsconfig.json
+rollup.config.js
+.gitignore
+.env
+.env.local
+*.log
+.DS_Store
+coverage/
+.nyc_output/
+node_modules/
+
