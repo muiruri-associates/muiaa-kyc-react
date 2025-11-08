@@ -35,15 +35,15 @@
     "hmac",
     "api-client"
   ],
-  "author": "",
+  "author": "Muiruri Associates",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "github.com:muiruri-associates/muiaa-kyc-react.git"
   },
-  "homepage": "",
+  "homepage": "github.com:muiruri-associates/muiaa-kyc-react.git",
   "bugs": {
-    "url": ""
+    "url": "github.com:muiruri-associates/muiaa-kyc-react.git/issues"
   },
   "engines": {
     "node": ">=12.0.0"
