@@ -22,12 +22,12 @@ The example will open in your browser at `http://localhost:3000`. Make sure your
 
 ## Features
 
-- 🔐 **Secure Authentication**: HMAC-SHA256 signature-based API authentication
-- 📄 **Document Upload**: Easy document upload for ID verification
-- 🎨 **React Components**: Ready-to-use React components for KYC templates
-- 🪝 **React Hooks**: Custom hooks for session management
-- 📱 **TypeScript Support**: Full TypeScript definitions included
-- 🌐 **Browser & Node.js**: Works in both browser and Node.js environments
+- **Secure Authentication**: HMAC-SHA256 signature-based API authentication
+- **Document Upload**: Easy document upload for ID verification
+- **React Components**: Ready-to-use React components for KYC templates
+- **React Hooks**: Custom hooks for session management
+- **TypeScript Support**: Full TypeScript definitions included
+- **Browser & Node.js**: Works in both browser and Node.js environments
 
 ## Quick Start
 
