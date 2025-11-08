@@ -22,7 +22,8 @@
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "type-check": "tsc --noEmit",
-    "prepublishOnly": "npm run build && npm run type-check"
+    "prepublishOnly": "npm run build && npm run type-check",
+    "publish": "npm run prepublishOnly && npm publish --access public"
   },
   "keywords": [
     "kyc",
@@ -39,11 +40,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "github.com:muiruri-associates/muiaa-kyc-react.git"
+    "url": "https://github.com/muiruri-associates/muiaa-kyc-react.git"
   },
-  "homepage": "github.com:muiruri-associates/muiaa-kyc-react.git",
+  "homepage": "https://github.com/muiruri-associates/muiaa-kyc-react#readme",
   "bugs": {
-    "url": "github.com:muiruri-associates/muiaa-kyc-react.git/issues"
+    "url": "https://github.com/muiruri-associates/muiaa-kyc-react/issues"
   },
   "engines": {
     "node": ">=12.0.0"
